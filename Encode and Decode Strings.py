@@ -14,6 +14,7 @@ class Solution:
         return s.split('€')[:-1]
 
 if __name__ == '__main__':
+    #test
     input = ["neet","code","love","you"]
     obj = Solution()
     encoded_string = obj.encode(input)
